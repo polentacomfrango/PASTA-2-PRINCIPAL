@@ -69,6 +69,50 @@
 	
 	</item>
 	
+	
+<item>
+<title>[B][COLOR red] Mônica Toy [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWduEF1R_tVYCikTS9pSWwd3UtfmotVvr/?page=0</jsonrpc>
+<thumbnail>https://img.elo7.com.br/product/zoom/20A3459/50-apliques-para-lembrancinhas-monica-toy-7-cm-etiquetas.jpg</thumbnail>
+<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] Turma da Mônica Todos os episódios [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWduEF1R_tVZYNTH8ajFOEDkDT_hfIQL9/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/8Mznf0d/monica.png</thumbnail>
+<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] Turma da Mônica Audio Descrição [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWduEF1R_tVZlO-3FBtQRJgyoWLc1pXek/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/ncDwzJs/dorinha.png</thumbnail>
+<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] Turma da Mônica Libras [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWduEF1R_tVaFPVSOPX-c1A6_Ge91IoQK/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/x54tFzF/humberto.png</thumbnail>
+<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+</item>
+
+<item>
+<title>[B][COLOR red] Turma da Mônica Filmes [/COLOR] [/B]</title>
+<link>ignoreme</link>
+<jsonrpc>Plugin://plugin.video.youtube/playlist/PLWduEF1R_tVZUextU5gZ7z6YMZqoANhvt/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/nr1FKPz/cinegibi.png</thumbnail>
+<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+</item>
+
+
+
+	
 	<item>
 		<title>[B]Cartoon Network Stream 24h | LIVE | CLIPES DE DESENHOS CARTOON NETWORK | Desenhos Animados[COLOR orange] YOUTUBE[/COLOR][/B]</title>
 		<thumbnail>https://i.pinimg.com/736x/e3/df/e8/e3dfe8982019225a3e3231ce4a86c4b5.jpg</thumbnail>
@@ -299,7 +343,7 @@
 <item>
 <link>plugin://plugin.video.youtube/play/?video_id=0EHYmchiwgk</link>
 <title>[B]Tom e Jerry diversos episódios antigos Clássicos Compilados Completos[COLOR orange] YOUTUBE[/COLOR][/B]</title>
-<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<thumbnail>https://outrolado.com.br/wp-content/uploads/2020/04/tom-Jerry-730x410.png</thumbnail>
 <fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
 </item>
 
@@ -916,6 +960,7 @@
 		<thumbnail>https://image.tmdb.org/t/p/w342/vIJishrNV3xA4e90aRGNZWGmikW.jpg</thumbnail>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49e9058098be279c7ada498398b30c1344d22600</link>
 </item>
+	
 	
 	
 	
