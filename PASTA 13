@@ -97,13 +97,7 @@
 		<link>plugin://plugin.video.youtube/play/?video_id=N1UDsjqwGqc&t=4s</link>
 		<info></info>
 	</item>
-	<item>
-		<title>[B]Mais de 5 horas de O Show da Luna! com Episódios Completos e Clipes Musicais[COLOR orange] YOUTUBE[/COLOR][/B]</title>
-		<thumbnail></thumbnail>
-		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
-		<link>plugin://plugin.video.youtube/play/?video_id=hIBd5gubiEY</link>
-		<info></info>
-	</item>
+	
 	<item>
 		<title>[B]PJ Masks em Português Melhor da 1ª Temporada | 2.5 HORAS | Desenhos Animados[COLOR orange] YOUTUBE[/COLOR][/B]</title>
 		<thumbnail>https://yt3.ggpht.com/ytc/AAUvwngFrlrasbrd9Ko8gkrActhgpvvdxu2E9nWBUo3iFg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
@@ -162,7 +156,7 @@
 	</item>
 	<item>
 		<title>[B]POCOYO em PORTUGUÊS do BRASIL - Hora de rir [ 120 minutos ] | DESENHOS ANIMADOS para crianças[COLOR orange] YOUTUBE[/COLOR][/B]</title>
-		<thumbnail></thumbnail>
+		<thumbnail>https://http2.mlstatic.com/D_NQ_NP_772969-MLB40521403729_012020-O.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=Qu7mx-nh_0w</link>
 		<info></info>
@@ -272,34 +266,141 @@
 		<link>plugin://plugin.video.youtube/play/?video_id=WkCLLWQouvM&t=5s</link>
 		<info></info>
 	</item>
+	
 	<item>
-		<title>[B][COLOR orange] YOUTUBE[/COLOR][/B]</title>
-		<thumbnail></thumbnail>
-		<fanarthttps://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
-		<link>plugin://plugin.video.youtube/play/?video_id=</link>
-		<info></info>
+	<link>plugin://plugin.video.youtube/play/?video_id=tWYCtKLIxT0</link>
+	<title>[B]Looney Tunes 20.4[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+	<thumbnail>https://vidoevo.com/videothumb/NHdFT19KcWuRpdU9OOUU.jpeg</thumbnail>
+	<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
 	</item>
-	<item><link>plugin://plugin.video.youtube/play/?video_id=tWYCtKLIxT0</link><title>[B]Looney Tunes 20.4[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=JisSYrjm9wk</link><title>[B]PATO DONALD PORTUGUES BRASIL COLEÇÃO 1[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=yxRObkTvyj8</link><title>[B]..Desenhos dos anos 90, parte 1..(lutadores de rua história completa).[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=zsCnhZUKM80</link><title>[B]Pica-Pau em Português | Meio-Dia Quente | Desenhos Antigos de Pica-Pau | Desenhos Animados[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=FUJ3bGoiljU</link><title>[B]Faísca e Fumaça: Fazedores de Chuva (desenhos antigos anos 90) - desenhos anos 90 - dublado[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=gHaBxnCNbHE</link><title>[B]Deleted video[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=0EHYmchiwgk</link><title>[B]Tom e Jerry diversos episódios antigos Clássicos Compilados Completos[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=v74vhVyU51I</link><title>[B]Tom & Jerry em Português | Brasil | Coletânea de desenhos clássicos | Tom, Jerry e Spike | WB Kids[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=ZyUG4S-OSSw</link><title>[B]Looney Tunes - Compilação de Desenhos #1[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=o8vuLnitfLU</link><title>[B]Desenho Animado Antigo Dublado[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=GBYT1NAvnzc</link><title>[B]Pernalonga - A Festa das Bruxas (Especial de Halloween)[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=T2Xgiuz5BzA</link><title>[B]"Os Flintstones" - 2ª temporada, 1961 [Dublado][COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=ksE4salj-j8</link><title>[B]Inspetor Bugiganga - O Substituto de Bugiganga (parte 2/2)[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=LL4dAE1b07Q</link><title>[B]Pica-Pau em Português | Picolino Mexicano | Desenhos Animados[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=uknuGgPEtHk</link><title>[B]Pica-Pau em Português | Embuste de estágio | Desenhos para crianças[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=FD-HPDUKtVc</link><title>[B]POPEYE - A Lâmpada de Aladdin (1961)[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=DV8z_CQk4Ac</link><title>[B]Pernalonga - A Ponte de Brooklyn (Dublagem Antiga)#01[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=5BMcCgRWMXs</link><title>[B]Pernalonga - Bugs Rocky Mugsy (Dublagem Antiga) #02[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=dspKpewy804</link><title>[B]Pernalonga - Coelho no Céu (Dublagem Antiga)[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=fAMLC70QLfM</link><title>[B]Pernalonga O MOTIM (Dublagem Antiga)[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
-<item><link>plugin://plugin.video.youtube/play/?video_id=Hs5f37ktMqY</link><title>[B]Pica Pau - O Barbeiro de Sevilha[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
+	
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=JisSYrjm9wk</link>
+<title>[B]PATO DONALD PORTUGUES BRASIL COLEÇÃO 1[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://img.vixdata.io/pd/jpg-large/es/sites/default/files/p/pato-donald-portada.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=zsCnhZUKM80</link>
+<title>[B]Pica-Pau em Português | Meio-Dia Quente | Desenhos Antigos de Pica-Pau | Desenhos Animados[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://stcotvfoco.com.br/2013/04/pica-pau.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=FUJ3bGoiljU</link>
+<title>[B]Faísca e Fumaça: Fazedores de Chuva (desenhos antigos anos 90) - desenhos anos 90 - dublado[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://hqscomcafe.com.br/wp-content/uploads/2016/07/faiscaefuma%C3%A7a-1024x576-1-800x445.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=0EHYmchiwgk</link>
+<title>[B]Tom e Jerry diversos episódios antigos Clássicos Compilados Completos[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=v74vhVyU51I</link>
+<title>[B]Tom & Jerry em Português | Brasil | Coletânea de desenhos clássicos | Tom, Jerry e Spike | WB Kids[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://odefensor.com.br/site/wp-content/uploads/2019/08/Tom-e-Jerry.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=ZyUG4S-OSSw</link>
+<title>[B]Looney Tunes - Compilação de Desenhos #1[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://www.hypeness.com.br/1/2020/12/006f3c94-looney-tunes-647x450-1.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=o8vuLnitfLU</link>
+<title>[B]Desenho Animado Antigo Dublado[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://rollingstone.uol.com.br/media/_versions/wackye-desenhosbizarros-reproducao_widelg.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=GBYT1NAvnzc</link>
+<title>[B]Pernalonga - A Festa das Bruxas (Especial de Halloween)[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://kanto.legiaodosherois.com.br/w760-h398-cfill/wp-content/uploads/2019/02/legiao_TO9h_LBEiQ7lCu2dSsgFomvNYRtx8bMcqI4PHVUpjk.png.jpeg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=T2Xgiuz5BzA</link>
+<title>[B]"Os Flintstones" - 2ª temporada, 1961 [Dublado][COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://www.recreio.com.br/images/large/2021/04/27/os-flintstones-1229231.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=ksE4salj-j8</link>
+<title>[B]Inspetor Bugiganga - O Substituto de Bugiganga (parte 2/2)[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://kanto.legiaodosherois.com.br/w760-h398-gnw-cfill-q80/wp-content/uploads/2019/10/legiao_elVgMP0IDEx5ZaGJyBNWcUTX4okAb3C7Qfz2RvuqSK.jpg.jpeg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=LL4dAE1b07Q</link>
+<title>[B]Pica-Pau em Português | Picolino Mexicano | Desenhos Animados[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=uknuGgPEtHk</link>
+<title>[B]Pica-Pau em Português | Embuste de estágio | Desenhos para crianças[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=FD-HPDUKtVc</link>
+<title>[B]POPEYE - A Lâmpada de Aladdin (1961)[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=DV8z_CQk4Ac</link>
+<title>[B]Pernalonga - A Ponte de Brooklyn (Dublagem Antiga)#01[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=5BMcCgRWMXs</link>
+<title>[B]Pernalonga - Bugs Rocky Mugsy (Dublagem Antiga) #02[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=dspKpewy804</link>
+<title>[B]Pernalonga - Coelho no Céu (Dublagem Antiga)[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=fAMLC70QLfM</link>
+<title>[B]Pernalonga O MOTIM (Dublagem Antiga)[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
+<item>
+<link>plugin://plugin.video.youtube/play/?video_id=Hs5f37ktMqY</link>
+<title>[B]Pica Pau - O Barbeiro de Sevilha[COLOR orange] YOUTUBE[/COLOR][/B]</title>
+<thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail>
+<fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart>
+</item>
+
 <item><link>plugin://plugin.video.youtube/play/?video_id=Qf8nkNEt2MM</link><title>[B]Pernalonga Bushy Hare (Dublagem Antiga) PT 1[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
 <item><link>plugin://plugin.video.youtube/play/?video_id=K_mcKujHY50</link><title>[B]Pica-Pau em Português | Demônios do tempo justo | Desenhos para crianças[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
 <item><link>plugin://plugin.video.youtube/play/?video_id=yrQyf96zpAE</link><title>[B]Pernalonga - Bugs Rocky Mugsy (Dublagem Antiga) #01[COLOR orange] YOUTUBE[/COLOR][/B]</title><thumbnail>https://i.ytimg.com/vi/M1vQYN8gdSE/maxresdefault.jpg</thumbnail><fanart>https://i.ibb.co/T8sJJLN/fundo-preto-e-laranja.png</fanart></item>
