@@ -573,7 +573,7 @@
 	
 	<item>
 		<title>[B]A Queda! As Últimas Horas de Hitler (2004) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
-		<thumbnail>https://image.tmdb.org/t/p/w342/DdqL8MwxTsvDYB4oJ6Izr86lQu.jpg</thumbnail>
+		<thumbnail>https://image.tmdb.org/t/p/w154/i8woFd0ljnO2rmg46wdoFPcPmPu.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e6b06629b410b606cfb442e8f73b442eac25e6b</link>
 		<info>Sinopse: Em 1942, o jovem Traudl Junge tem o que parece ser a melhor profissão do mundo: ele é secretário de Hitler. Três anos depois, o império se resume a um abrigo subterrâneo e, de lá, Traudl narra os últimos dias da vida de do ditador.</info>
@@ -628,7 +628,7 @@
 		<info>Sinopse: Logo no início da Segunda Guerra Mundial, os navios aliados eram afundados diariamente pelos submarinos U alemães. A bordo do submarino S-33, o tenente Andrew Tyler (Matthew McConaughey) e seu superior, o comandante Mike Dahlgren (Bill Paxton), recebem ordens para se aproximar de forma camuflada de um destes submarinos no intuito de conseguir uma máquina de escrever que permitirá decifrar os códigos alemães utilizados na guerra. Entretanto, um ataque surpresa faz com que oito integrantes da tripulação do S-33 tenham que seguir viagem no submarino alemão U-571.</info>
 	</item>
 	
-	item>
+	<item>
 		<title>[B]Cartas de Iwo Jima (2006) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/eFejGXN5y75CuJWakJIq3F8ou5E.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
@@ -636,7 +636,7 @@
 		<info>Sinopse: Junho de 1944. Tadamichi Kuribayashi (Ken Watanabe), o tenente-general do exército imperial japonês, chega na ilha de Iwo Jima. Muito respeitado por ser um hábil estrategista, Kuribayashi estudara nos Estados Unidos, onde fizera grandes amigos e conhecia o exército ocidental e sua capacidade tecnológica. Por isso o Japão colocou em suas mãos o destino de Iwo Jima, considerada a última linha defesa do país. Ao contrário dos outros comandantes Kuribayashi moderniza o modo de agir, alterando a estratégia que era usada. Ele supervisiona a construção de uma fortaleza subterrânea, feita de túneis que davam para as suas tropas a estratégia ideal contra as forças americanas, que começam a desembarcar na ilha em 19 de fevereiro de 1945.</info>
 	</item>
 	
-	item>
+	<item>
 		<title>[B]Bom Dia, Vietnã (1987)  [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/6BNwDEow9MVFquxxmdNjVre0TFy.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
@@ -644,7 +644,7 @@
 		<info>Sinopse: Convocado pelo exército para transmitir um programa de rádio, Cronauer acaba com a caretice das ondas pasteurizadas da rádio, com suas piadas e os últimos sucessos musicais da América. Os soldados o veneram enquanto as altas patentes o consideram um ultraje.</info>
 	</item>
 	
-	item>
+	<item>
 		<title>[B]O Barco: Inferno no Mar (1981) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/7TGfBjXRdSsS9wkZXWcFE5Z1XAD.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
@@ -652,7 +652,7 @@
 		<info>Sinopse: Em plena Segunda Guerra Mundial, em 1942, o capitão de um submarino enfrenta enormes dificuldades no comando de uma tripulação pouco experiente. Durante a Batalha do Atlântico Norte, eles vivem num inferno claustrofóbico afundando navios ingleses e procurando barcos aliados.</info>
 	</item>
 	
-	item>
+	<item>
 		<title>[B]O 12º Homem (2017) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/labSb6IhlVZQY5D7SyQmCVByO7w.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
@@ -660,7 +660,7 @@
 		<info>Sinopse: Noruega, 1943: depois que uma fracassada missão de sabotagem aos nazistas deixar seus onze companheiros mortos, o combatente da resistência norueguesa Jan Baalsrud (Thomas Gullestad) se vê foragido da Gestapo pelos trechos árticos da Escandinávia. É uma jornada angustiante através do deserto implacável e congelado que se estenderá por meses e forçará Jan a tomar medidas extremas para sobreviver.</info>
 	</item>
 	
-	item>
+	<item>
 		<title>[B]Honra ao Mérito (2017) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/yAyK8WRnhG6PnlLII66FcKkaXm9.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
@@ -668,7 +668,7 @@
 		<info>Sinopse: O filme acompanha a vida de vários soldados norte-americanos que retornaram das guerras do Iraque e do Afeganistão sofrendo de transtorno de estresse pós-traumático (PTSD, na sigla em inglês) e de outros traumas. Tais condições interferem nas suas rotinas e abala a vida de várias famílias.</info>
 	</item>
 	
-	item>
+	<item>
 		<title>[B]O Mensageiro (1997) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/hfgJx9x0mT7kI9Vy80cwL9lt8TK.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
@@ -676,7 +676,7 @@
 		<info>Sinopse: Em 2013, após uma guerra que destruiu grande parte dos Estados Unidos, inclusive o governo, vive em um contexto de caos quase absoluto um andarilho, que tenta sobreviver interpretando Shakespeare nas localidades por onde passa. Ele é capturado pelos Holnistas, um grupo guerrilheiro que inspira terror, mas consegue escapar dos seus captores e encontra um carteiro morto. Ele veste suas roupas para se aquecer e chega a cidade mais próxima dizendo ser um representante oficial, pois o governo tinha sido restaurado. Nada era verdade, mas era uma forma de chegar em um lugar um estranho e ser, dentro do possível, bem tratado e alimentado enquanto distribuía esperança para a população. Mas a realidade era outra e os Holnistas estavam a qualquer momento sempre prontos para atacar, pilhar e assassinar.</info>
 	</item>
 	
-	item>
+	<item>
 		<title>[B]Tempo de Glória (1989)[COLOR orange] FHD - 1080p[/COLOR][/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/fK9NebHvLVnoICI5IDEzrMhCpzb.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
@@ -684,7 +684,7 @@
 		<info>Sinopse: Durante a Guerra Civil americana, Robert Gould Shaw (Matthew Broderick), um jovem sem experiência, mas de uma influente família, recebe o comando do primeiro batalhão composto exclusivamente por soldados negros.</info>
 	</item>
 	
-	item>
+	<item>
 		<title>[B]Os Doze Condenados (1967)[COLOR orange] FHD - 1080p[/COLOR][/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/aLogpA6ZWJD1FTkyktSY2cLj6yR.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
@@ -692,13 +692,70 @@
 		<info>Sinopse: Um major rebelde e uma fama de resolver as coisas recebe a ordem de entrevistar prisioneiros militares, condenados à morte ou à prazo longo, para uma perigosa missão em troca de perdão. O objetivo é saltar de paraquedas atrás das linhas inimigas e causar estragos para os generais alemães que estarão em uma casa de repouso, na véspera do Dia D.</info>
 	</item>
 	
-	item>
+	<item>
 		<title>[B]A Ponte do Rio Kwai (1957) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
 		<thumbnail>https://image.tmdb.org/t/p/w342/z4NWsLsLogVh2XfLXbPaaGrX8Zz.jpg</thumbnail>
 		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
 		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4212c4f4e2e913280fe6b3a28b61d7497489bce6</link>
 		<info>Sinopse: Depois de liquidar suas diferenças com o comandante de um campo de prisioneiros japonês, um coronel britânico coopera para supervisionar seus homens na construção de uma ponte ferroviária para os seus captores – enquanto permanece alheio aos planos dos Aliados para destruí-la.</info>
 	</item>
+	
+	<item>
+		<title>[B]Uma Guerra Pessoal (2018) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
+		<thumbnail>https://image.tmdb.org/t/p/w342/6tuw5ZA1n1JJZGAIyOpBtYJynCt.jpg</thumbnail>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d930ea404f887f1e7522d770b174511755ed279b</link>
+		<info>Sinopse: Biografia sobre a jornalista Marie Colvin (Rosamund Pike), premiada repórter norte-americana, conhecida por cobrir zonas de conflito como Chechênia, Kosovo e Zimbábue. Durante um trabalho no Sri Lanka, ela perdeu seu olho esquerdo em 2001 e passou a usar um tapa-olho, que se tornou sua marca registrada até sua morte em 2012. (e 16 – Estimado 16 Anos)</info>
+	</item>
+	
+	<item>
+		<title>[B]Consequências (2019) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
+		<thumbnail>https://image.tmdb.org/t/p/w342/u92tB5bowfcEynSpAWOQ4OTbmd1.jpg</thumbnail>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ee13907f75298ecd236e2143a0ffefc9c0463de</link>
+		<info>Sinopse: Recém-chegada em Hamburgo, Rachel Morgan é afetada de imediato pelo clima sombrio que a cidade conserva depois de ter sido inteiramente destruída durante a Segunda Guerra Mundial. Seu marido, o coronel britânico Lewis , foi encarregado de coordenar a reconstrução da região por tempo indeterminado. Em uma decisão unilateral, Lewis estabelece que o casal ficará hospedado na casa de um viúvo alemão, provocando sentimentos conflituosos em sua esposa.</info>
+	</item>
+	
+	<item>
+		<title>[B]Marcas da Guerra (2015) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
+		<thumbnail>https://image.tmdb.org/t/p/w342/lMBrFrd1ETTfE1FMsJbEfuT2qH0.jpg</thumbnail>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:459e6cb8de740b96f61b0e76ba67cdadf92a83af</link>
+		<info>Sinopse: Uma unidade desajustada conhecido como o War Pigs deve ir atrás das linhas inimigas para exterminar os nazistas por qualquer meio necessário.</info>
+	</item>
+	
+	<item>
+		<title>[B]Promessas de Guerra (2014) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
+		<thumbnail>https://image.tmdb.org/t/p/w342/auwdpPHhajvXn26BLFmJ4HlxdM0.jpg</thumbnail>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c0bf0c5add40e9b675c474737dafb8cd84679a5</link>
+		<info>Sinopse: Joshua Connor perdeu seus três filhos na batalha de Galípoli, em 1919. Após a morte da mãe deles, Joshua promete que irá enterrá-la ao lado dos filhos. Desta forma, ele viaja até a Turquia decidido a recuperar os corpos deles, para que possa enterrá-los em sua terra natal. Por mais que o país esteja agora em paz, devido à derrota dos turcos para os ingleses, Joshua enfrenta muitas dificuldades para chegar ao campo de batalha onde eles teriam morrido. Ele recebe então a ajuda de Ayshe, uma mulher que está à espera do marido, enviado para a guerra, e de seu filho, o pequeno Orhan.</info>
+	</item>
+	
+	<item>
+		<title>[B]Suite Francesa (2015) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
+		<thumbnail>https://image.tmdb.org/t/p/w342/w5dV1p5yZfNMuBOgVleLi5VgOG6.jpg</thumbnail>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4666c53ff9afe9c51b55905ec8811275920c897f</link>
+		<info>Sinopse: Durante os primeiros anos da ocupação alemã da França na Segunda Guerra Mundial, um romance floresce entre Lucile Angellier (Michelle Williams), um aldeã francesa e Bruno von Falk (Matthias Schoenaerts), um soldado alemão. França, 1940. Nos primeiros dias da ocupação alemã, a linda Lucile Angellier (Michelle Williams) está presa em uma existência sufocada com sua controladora madrasta (Kristin Scott Thomas), pois ambas esperam por notícias de seu marido, um prisioneiro de guerra. Refugiados parisienses começam a surgir em sua pequena cidade, logo seguidos por um regimento de soldados alemães que se estabelecem nas próprias casas dos moradores. Lucile inicialmente tenta ignorar Bruno von Falk (Matthias Schoenaerts), o bonito e refinado oficial alemão que ficou em sua casa. Mas logo, um poderoso amor os faz ficar juntos e também os leva a uma tragédia da guerra.</info>
+	</item>
+	
+	<item>
+		<title>[B]Braddock: O Super Comando (1984) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
+		<thumbnail>https://image.tmdb.org/t/p/w342/ntLGHv9mS1bQOio96kWBsXwUM96.jpg</thumbnail>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bd7855faa6a643c513ba9a30eb9ca580f8b26b6</link>
+		<info>Sinopse: O coronel das Forças Especiais, James Braddock, precisa trazer de volta soldados norte-americanos que ainda estão sendo mantidos como prisioneiros no Vietnã. Contando com a ajuda da funcionária do Departamento de Estado e de um ex-colega de Exército, Braddock, reúne informação altamente confidencial e armamento de última geração. Braddock, forma então, um exército de um homem só, disposto a invadir o Vietnã, para localizar e salvar seus companheiros restantes desaparecidos em combate.</info>
+	</item>
+	
+	<item>
+		<title>[B]Tora! Tora! Tora! (1970) [COLOR orange] FHD - 1080p[/COLOR][/B]</title>
+		<thumbnail>https://image.tmdb.org/t/p/w342/9noF9I4LL8OvpIARtifKEQ6d8lK.jpg</thumbnail>
+		<fanart>https://i.ibb.co/CQ7x6sz/fundo-roxo-PYPROTECT.png</fanart>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:81ed5fc7ce1cf5ec425231f0e4bf9e7507f54fe0</link>
+		<info>Sinopse: Retrata de forma realista, quase documental, tanto do ponto de vista japonês como do norte americano, mostrando a preparação, os eventos e os erros que possibilitaram o ataque a Pearl Harbor em 7 de Dezembro de 1941, fato que forçou a entrada dos Estados Unidos da América na Segunda Guerra Mundial. O título do filme é o código utilizado em caso de sucesso do ataque japonês, que traduzido para o português significa ‘Tigre! Tigre! Tigre!’. A versão Americana tem 02:25. A versão Japonesa é mais longa, com 02:29.</info>
+	</item>
+
 
 
 
