@@ -96,14 +96,59 @@
 
 	
 	<item>
-		<title>[B][COLOR violet]Cartoon Network Stream 24h | LIVE | CLIPES DE DESENHOS CARTOON NETWORK | Desenhos Animados[/COLOR][/B]</title>
+		<title>[B][COLOR violet]Cartoon Network Stream 24h [/COLOR][/B]</title>
 		<thumbnail>https://i.pinimg.com/736x/e3/df/e8/e3dfe8982019225a3e3231ce4a86c4b5.jpg</thumbnail>
 		<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=MAArSxA1GCQ</link>
 		<info></info>
+         </item>
+	 
+	 <item>
+		<title>[B][COLOR violet]Miraculos as aventuras de Lady Bug [/COLOR][/B]</title>
+		<thumbnail>https://m.media-amazon.com/images/I/91G85qo4zML._AC_SY445_.jpg</thumbnail>
+		<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+		<link>plugin://plugin.video.youtube/play/?video_id=7AZ58kvKfFw</link>
+		<info></info>
+         </item>
+	 
+	 <item>
+		<title>[B][COLOR violet]Power Rangers AO VIVO | Beast Morphers [/COLOR][/B]</title>
+		<thumbnail>https://pics.filmaffinity.com/Power_Rangers_Beast_Morphers_TV_Series-921740224-large.jpg</thumbnail>
+		<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+		<link>plugin://plugin.video.youtube/play/?video_id=BDr9LPirMZY</link>
+		<info></info>
+         </item>
+	 
+	 <item>
+		<title>[B][COLOR violet]Power Rangers | Dino Super Charge [/COLOR][/B]</title>
+		<link>ignoreme</link>
+                <jsonrpc>Plugin://plugin.video.youtube/playlist/PL-rZATgDz1mdNKVc_wea4N3LEMcjErlCi/?page=0</jsonrpc>
+                <thumbnail>https://m.media-amazon.com/images/I/813CWH8YY5L._AC_SY550_.jpg</thumbnail>
+                <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+		<info></info>
+         </item>
+	 
+	 <item>
+		<title>[B][COLOR violet]Sonic Boom [/COLOR][/B]</title>
+		<link>ignoreme</link>
+                <jsonrpc>Plugin://plugin.video.youtube/playlist/PL3V7mhPMNYH7YyOVwo4tVDEyhUFyeRvmG/?page=0</jsonrpc>
+                <thumbnail>https://m.media-amazon.com/images/I/81kgf5SFAwL._AC_SL1500_.jpg</thumbnail>
+                <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+		<info></info>
+         </item>
+	 
+	 <item>
+		<title>[B][COLOR violet]Sonic X [/COLOR][/B]</title>
+		<link>ignoreme</link>
+                <jsonrpc>Plugin://plugin.video.youtube/playlist/PLhLIuhReJ4ceO3J5pfJEnwJy-xHkwCwTJ/?page=0</jsonrpc>
+                <thumbnail>https://s2.glbimg.com/3Midm0dBTQ3vXfKE3Iu7pTVtdbA=/362x536/https://s2.glbimg.com/r7yeHxh4YkHsNgzLSafvOCRplcc=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2022/w/X/qNWvzAQWOocYcNuBF2oQ/2021-2384-sonic-x-poster.jpg</thumbnail>
+                <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+		<info></info>
+         </item>
+	
 	
 	<item>
-		<title>[B][COLOR violet]12 hs de Pica-Pau em Português | LIVE | Compilação de Cenas Engraçadas | Desenhos Animados[/COLOR][/B]</title>
+		<title>[B][COLOR violet]12 hs de Pica-Pau em Português [/COLOR][/B]</title>
 		<thumbnail>https://i.pinimg.com/236x/10/bd/8b/10bd8bbac7fd0cc313392b1fb7e76a08--woody-woodpecker-saturday-morning-cartoons.jpg</thumbnail>
 		<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=ahCEFiOZCUo</link>
@@ -125,14 +170,14 @@
 	</item>
 	
 	<item>
-		<title>[B][COLOR violet]PJ Masks em Português Melhor da 1ª Temporada | 2.5 HORAS | Desenhos Animados[/COLOR][/B]</title>
+		<title>[B][COLOR violet]PJ Masks em Português Melhor da 1ª Temporada [/COLOR][/B]</title>
 		<thumbnail>https://yt3.ggpht.com/ytc/AAUvwngFrlrasbrd9Ko8gkrActhgpvvdxu2E9nWBUo3iFg=s900-c-k-c0x00ffffff-no-rj</thumbnail>
 		<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=QBWW9I6ccuk</link>
 		<info></info>
 	</item>
 	<item>
-		<title>[B][COLOR violet]Meu Amigãozão - 2ª Temporada Completa - 9 Horas de Desenho Animado[/COLOR][/B]</title>
+		<title>[B][COLOR violet]Meu Amigãozão - 2ª Temporada Completa [/COLOR][/B]</title>
 		<thumbnail>https://www.ibahia.com/fileadmin/user_upload/ibahia/2017/setembro/28/amigaozao.png</thumbnail>
 		<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 		<link>plugin://plugin.video.youtube/play/?video_id=uPcQkawKvQ0</link>
