@@ -1,6 +1,14 @@
 
 	
 	<item>
+<title>[B][COLOR violet] Tu [/COLOR][/B]</title>
+<link>ignoreme</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCkKe0NYrGQ8kpwDM4pfQu_g/?page=0</jsonrpc>
+<thumbnail>https://i.ibb.co/nr1FKPz/cinegibi.png</thumbnail>
+<fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
+</item>
+	
+	<item>
                 <title>[B][COLOR violet][COLOR violet]O Fantástico Mundo de Bob  [/COLOR][/B]</title>
                <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:880676bf7bf59b51da090c595c182c23b5a12de6</link>
                  <thumbnail>https://ondebaixa.com/imagens/o-fantastico-mundo-de-bob-1-temporada-download-torrent-1990-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
@@ -91,6 +99,8 @@
 <thumbnail>https://i.ibb.co/nr1FKPz/cinegibi.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
+
+
 
 
 
