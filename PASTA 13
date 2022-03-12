@@ -3,7 +3,7 @@
 	<item>
 <title>[B][COLOR violet] Tu [/COLOR][/B]</title>
 <link>ignoreme</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCkKe0NYrGQ8kpwDM4pfQu_g/?page=0</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/channel/UCkKe0NYrGQ8kpwDM4pfQu_g</jsonrpc>
 <thumbnail>https://i.ibb.co/nr1FKPz/cinegibi.png</thumbnail>
 <fanart>https://i.ibb.co/m9YZh0s/backgro-anub.jpg</fanart>
 </item>
